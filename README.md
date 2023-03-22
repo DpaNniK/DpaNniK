@@ -6,7 +6,7 @@
 
 <div id="badges">
   <a href="https://t.me/drunya58">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="45"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="45"/>
   </a>
 </div>
 
