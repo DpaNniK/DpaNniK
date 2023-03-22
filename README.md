@@ -6,6 +6,9 @@
   <a href="https://t.me/drunya58">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="50"/>
   </a>
+  <a href="https://vk.com/andrew_puhov">
+   <img src="https://iite.unesco.org/wp-content/uploads/2020/06/VK_Blue_Logo_transparent-1024x1024-1.png" width="50"/>
+  </a>
 </div>
 
 <!--
