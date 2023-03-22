@@ -12,6 +12,9 @@
   <a href="https://instagram.com/o_andruyash.b?r=nametag">
    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
   </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=DpaNniK&style=flat-square&color=blue" alt=""/>
+  
 </div>
 
 <!--
