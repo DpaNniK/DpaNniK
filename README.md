@@ -3,9 +3,8 @@
 </div>
 
 <div id="badges">
-  
   <a href="https://t.me/drunya58">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="Telegram Badge"/>
+    <img src="[https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge](https://user-images.githubusercontent.com/106442300/226861596-98628331-e118-4406-bd11-e7d084e848cb.png)" alt="Telegram Badge"/>
   </a>
 </div>
 
