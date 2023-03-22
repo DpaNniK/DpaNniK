@@ -12,7 +12,7 @@
 
 <div id="badges">
   <a href="https://vk.com/andrew_puhov">
-   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536582.png" width="50"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494517.png" width="50"/>
   </a>
 </div>
 
