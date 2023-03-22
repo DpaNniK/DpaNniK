@@ -23,6 +23,8 @@
 
 ### :woman_technologist: Обо мне :
 
+Я разработчик из России <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> использую язык Java.
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DpaNniK&theme=dark&background=000000)](https://git.io/streak-stats)
 
