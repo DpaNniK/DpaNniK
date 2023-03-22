@@ -6,7 +6,7 @@
 
 <div id="badges">
   <a href="https://t.me/drunya58">
-   <img src="https://cdn-icons-png.flaticon.com/512/739/739260.png" width="50"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/1236/1236871.png" width="50"/>
   </a>
 </div>
 
