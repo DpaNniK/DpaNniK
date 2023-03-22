@@ -4,11 +4,14 @@
 
 
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://t.me/drunya58">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="45"/>
   </a>
-  <a href="https://t.me/drunya58">
+</div>
+
+<div id="badges">
+  <a href="https://vk.com/andrew_puhov">
    <img src="https://msbaby.ru/upload/content/icon_vk.png" width="53"/>
   </a>
 </div>
