@@ -2,14 +2,15 @@
   <img src="https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif" width="100"/>
 </div>
 
-
-
 <div id="badges" align="center">
   <a href="https://t.me/drunya58">
    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50"/>
   </a>
   <a href="https://vk.com/andrew_puhov">
    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494517.png" width="50"/>
+  </a>
+  <a href="https://instagram.com/o_andruyash.b?r=nametag">
+   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
   </a>
 </div>
 
