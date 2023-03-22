@@ -26,6 +26,10 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я бэкенд разработчик из России, использую язык Java.
 - ⚡ Интересный факт: Еще совсем недавно, в середине 2022 года, я работал на заводе оператором!
 
+---
+
+### :fire: Моя статистика :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DpaNniK&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
