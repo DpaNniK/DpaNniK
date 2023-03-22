@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif" width="100"/>
 </div>
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="100"/>
+
 
 <div id="badges">
   <a href="https://t.me/drunya58">
