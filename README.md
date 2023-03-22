@@ -4,13 +4,10 @@
 
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/drunya58">
    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50"/>
   </a>
-</div>
-
-<div id="badges">
   <a href="https://vk.com/andrew_puhov">
    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494517.png" width="50"/>
   </a>
