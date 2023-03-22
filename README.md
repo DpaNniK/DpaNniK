@@ -5,7 +5,7 @@
 <div id="badges">
   
   <a href="https://t.me/drunya58">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="Telegram Badge"/>
   </a>
 </div>
 
