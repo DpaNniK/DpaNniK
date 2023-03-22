@@ -6,13 +6,13 @@
 
 <div id="badges">
   <a href="https://t.me/drunya58">
-   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/739/739260.png" width="50"/>
   </a>
 </div>
 
 <div id="badges">
   <a href="https://vk.com/andrew_puhov">
-   <img src="https://msbaby.ru/upload/content/icon_vk.png" width="53"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111828.png" width="50"/>
   </a>
 </div>
 
