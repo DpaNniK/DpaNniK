@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="https://t.me/drunya58">
-    <img src="[https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge](https://user-images.githubusercontent.com/106442300/226861596-98628331-e118-4406-bd11-e7d084e848cb.png)" alt="Telegram Badge"/>
+    <img src="https://icons8.ru/icon/yEmPT1iidhE0/телеграм" alt="Telegram Badge"/>
   </a>
 </div>
 
